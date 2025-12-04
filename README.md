@@ -2,6 +2,10 @@
 
 Uma plataforma interativa de aprendizado sobre vídeo digital e sistemas multimídia, desenvolvida para auxiliar estudantes a compreender conceitos fundamentais de tecnologia multimídia de forma prática e envolvente.
 
+### 🌐 Demonstração Online
+Clique aqui para ver o projeto rodando: [Acessar Projeto](https://hsklhamtyrycg.mocha.app/)
+
+
 ![MultiMedia Learn](https://mocha-cdn.com/019abd73-df6a-720b-9c3d-48a725c07418/image.png_8261.png)
 
 ## 📋 Sobre o Projeto
