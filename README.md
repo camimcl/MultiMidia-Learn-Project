@@ -5,8 +5,68 @@ Uma plataforma interativa de aprendizado sobre vídeo digital e sistemas multim�
 ### 🌐 Demonstração Online
 Clique aqui para ver o projeto rodando: [Acessar Projeto](https://hsklhamtyrycg.mocha.app/)
 
-
 ![MultiMedia Learn](https://mocha-cdn.com/019abd73-df6a-720b-9c3d-48a725c07418/image.png_8261.png)
+
+## 👥 Colaboradores
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/camimcl" title="Perfil do GitHub">
+        <img src="https://avatars.githubusercontent.com/u/143668626?v=4" width="100px;" alt="pfp camile"/><br>
+        <sub>
+          <b>Camile Marcele</b>
+          <b>01592555</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rafinha1802" title="Perfil do GitHub">
+        <img src="https://avatars.githubusercontent.com/u/143227706?v=4" width="100px;" alt="pfp Rafa"/><br>
+        <sub>
+          <b>Rafaella Guedes</b>
+          <b>01588710</b>
+        </sub>
+      </a>
+    </td>   
+    <td align="center">
+      <a href="https://github.com/dudalimah" title="Perfil do GitHub">
+        <img src="https://avatars.githubusercontent.com/u/138077604?v=4?v=4" width="100px;" alt="pfp duda"/><br>
+        <sub>
+          <b>Maria Eduarda</b>
+          <b>01591900</b>
+        </sub>
+      </a>
+    </td>    
+     <td align="center">
+      <a href="https://github.com/jvbarros13" title="Perfil do GitHub">
+        <img src="https://avatars.githubusercontent.com/u/187822239?v=4" width="100px;" alt="pfp joao"/><br>
+        <sub>
+          <b>Joao Victor</b>
+          <b>01605038</b>
+        </sub>
+      </a>
+    </td>   
+    <td align="center">
+      <a href="https://github.com/milenaaguerra" title="Perfil do GitHub">
+        <img src="https://avatars.githubusercontent.com/u/242702932?v=4" width="100px;" alt="pfp joao"/><br>
+        <sub>
+          <b>Milena Guerra</b>
+          <b>01605038</b>
+        </sub>
+      </a>
+    </td>   
+  </tr>
+</table>
+
+- **Camile Marcele** - Desenvolvedora
+- **Rafaella Guedes** - Design
+- **João Victor** - Desenvolvedor
+- **Milena Oliveira** - Slides e apresentação
+- **Maria Eduarda** - Áudio e Vídeo
+- **Ellen Vitória** - Design
+
 
 ## 📋 Sobre o Projeto
 
@@ -141,15 +201,6 @@ multimedia-learn/
 - **Animações Suaves**: Transições e animações CSS fluidas
 - **Paleta de Cores**: Baseada em índigo, azul, roxo e rosa
 - **Tipografia**: Inter como fonte principal
-
-## 👥 Colaboradores
-
-- **Camile Marcele** - Desenvolvedora
-- **Rafaella Guedes** - Design
-- **João Victor** - Desenvolvedor
-- **Milena Oliveira** - Slides e apresentação
-- **Maria Eduarda** - Áudio e Vídeo
-- **Ellen Vitória** - Design
 
 ## 📚 Conteúdo Educacional
 
