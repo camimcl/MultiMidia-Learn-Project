@@ -1,3 +1,8 @@
+## OBS: Não foi possivel enviar o arquivo de vídeo (raw) e editado nos arquivos solicitados, mas deixarei aqui o link para acesá-los. 
+[Vídeo sem edição](https://youtu.be/fka12KhM8X0?si=2DucVGp4FJ5o0Grw)
+
+[Vídeo com edição](https://www.youtube.com/watch?v=XFLZsb7pS9A)
+
 # MultiMedia Learn 🎬
 
 Uma plataforma interativa de aprendizado sobre vídeo digital e sistemas multimídia, desenvolvida para auxiliar estudantes a compreender conceitos fundamentais de tecnologia multimídia de forma prática e envolvente.
